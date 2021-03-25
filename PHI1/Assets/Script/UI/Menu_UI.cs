@@ -21,16 +21,15 @@ public class Menu_UI : MonoBehaviour
         Project pr = new Project();
         JsonUtility.FromJsonOverwrite(content, pr);
         Debug.Log("Ceva");
+        GameObject.Find("Canvas_Menu").GetComponent<Canvas>().enabled = false;
+        GameObject.Find("Canvas_Objects").GetComponent<Canvas>().enabled = true;
     }
     public void Save_project()
     {
         string patch = EditorUtility.SaveFolderPanel("Save Project", "", "PHIsicsMasters.json");
         Project de_salvat = new Project();
-        de_salvat.idproiect = 0;
-        de_salvat.Lista = new List<int>();
-        de_salvat.Lista.Add(13);
-        de_salvat.Lista.Add(21);
-        de_salvat.Lista.Add(2190);
+        ///de terminat
+ 
         string jsondata = JsonUtility.ToJson(de_salvat,true);
         File.WriteAllText(patch + "/Project.json", jsondata);
     }
