@@ -4,7 +4,6 @@ using UnityEngine;
 [SerializeField]
 public class Project 
 {
-    public int idproiect;
-    public List<int> Lista;
-    
+    public List<float> transforms;
+    public List<string> ids;    
 }

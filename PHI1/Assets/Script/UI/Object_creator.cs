@@ -13,7 +13,8 @@ public class Object_creator : MonoBehaviour, IPointerClickHandler
         GameObject clone=Instantiate(prefab);
         clone.AddComponent<Movement>();
         clone.AddComponent<MeshCollider>();
-        clone.AddComponent<Selection>();
+       
+        clone.name = "to_save_" + this.name;
     }
     
     
