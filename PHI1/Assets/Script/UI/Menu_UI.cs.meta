@@ -3,7 +3,11 @@ guid: cfce39e50ed30764e878dee4f1a2aca2
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cub: {fileID: 8031815940607630655, guid: 31bbea60cb2157b4b8120654e8c2b807, type: 3}
+  - sfera: {fileID: 2351137791591743654, guid: 3de7e88d51477df41ba17add8d27a833, type: 3}
+  - paralelipiped: {fileID: 2383038633609881078, guid: 4c81c8e9275b28f4b894112abcdc4ae2, type: 3}
+  - plan_inclinat: {fileID: 8706558116438833350, guid: 3db8a46719d027d409e09aa77567a01f, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

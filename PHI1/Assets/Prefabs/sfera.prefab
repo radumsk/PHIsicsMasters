@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 2036999653885334969}
   - component: {fileID: 4296459528221565299}
   - component: {fileID: 1851163110989772581}
-  - component: {fileID: 5861119507708707050}
   m_Layer: 0
   m_Name: sfera
   m_TagString: Untagged
@@ -96,17 +95,3 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.20000002
   m_Center: {x: 0.000000007450581, y: 0, z: 0}
---- !u!64 &5861119507708707050
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2351137791591743654}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 289301614986012343, guid: 243a42ab0f6b97f4fac34bdfed3488a7, type: 3}
