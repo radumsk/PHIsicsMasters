@@ -7,13 +7,13 @@ public class scriptResort : MonoBehaviour
 {
     // Start is called before the first frame update
     public int stadiu = 0;
-    public float dl, change = 0, k = 500, E;
+    public float dl, change = 0, k = 50082, E;
     const float scaleDif = 0.2f;
     GameObject Sphere;
     Rigidbody sphereRigidBody;
     void Start()
     {
-        
+        //k = E * S / l;
 
     }
 
