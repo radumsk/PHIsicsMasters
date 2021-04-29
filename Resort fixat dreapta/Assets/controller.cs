@@ -12,7 +12,7 @@ public class controller : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        Vector3 F = new Vector3(2.0f * rb.mass, 0, 0);
+        Vector3 F = new Vector3(115.0f, 0, 0);
         rb.AddForce(F * v);
 
     }
@@ -29,10 +29,10 @@ public class controller : MonoBehaviour
     }
     void OnCollisionEnter(Collision col)
     {
-        if (col.gameObject.name == "resort")
+        /*if (col.gameObject.name == "resort")
         {
-            //Debug.Log("Colission");
-            //Debug.Log(scriptResort.stadiu);
+            Debug.Log("Colission");
+            Debug.Log(scriptResort.stadiu);
             if (stadiu < 2)
             {
                 
@@ -43,6 +43,6 @@ public class controller : MonoBehaviour
         
 
 
-        }
+        }*/
     }
 }

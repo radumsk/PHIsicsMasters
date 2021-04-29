@@ -6,7 +6,7 @@ using UnityEngine;
 public class scriptResort : MonoBehaviour
 {
     // Start is called before the first frame update
-    public static int stadiu = 0;
+    public int stadiu = 0;
     public float dl, change = 0, k = 500, E;
     const float scaleDif = 0.2f;
     GameObject Sphere;
@@ -25,7 +25,9 @@ public class scriptResort : MonoBehaviour
         {
             if (change <= 0)
             {
+                sphereRigidBody.transform.position -= new Vector3(0.1f, 0, 0);
                 sphereRigidBody.isKinematic = false;
+                sphereRigidBody.velocity = new Vector3(0, 0, 0);
                 sphereRigidBody.AddForce(new Vector3(-k * dl, 0, 0));
                 stadiu = 0;
             }
@@ -54,6 +56,8 @@ public class scriptResort : MonoBehaviour
                 stadiu = 1;
                 change = 0;
                 dl = Mathf.Sqrt(sphereRigidBody.mass / k) * Sphere.GetComponent<controller>().prevVelocity;
+                Vector3 F = new Vector3(300.0f * sphereRigidBody.mass, 0, 0);
+                sphereRigidBody.AddForce(F);
             }
             if (stadiu == 1)
             {
@@ -66,6 +70,8 @@ public class scriptResort : MonoBehaviour
                 {
                     change += scaleDif;
                     transform.localScale += new Vector3(scaleDif, 0, 0);
+                    Vector3 F = new Vector3(300.0f * sphereRigidBody.mass, 0, 0);
+                    sphereRigidBody.AddForce(F);
                 }
             }
             Sphere.GetComponent<controller>().stadiu = stadiu;
