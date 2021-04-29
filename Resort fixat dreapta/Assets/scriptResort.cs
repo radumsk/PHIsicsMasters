@@ -18,17 +18,17 @@ public class scriptResort : MonoBehaviour
     }
 
     // Update is called once per frame
+
     void FixedUpdate()
     {
-        //Debug.Log(change);
         if (stadiu == 2)
         {
             if (change <= 0)
             {
                 sphereRigidBody.transform.position -= new Vector3(0.1f, 0, 0);
                 sphereRigidBody.isKinematic = false;
-                sphereRigidBody.velocity = new Vector3(0, 0, 0);
-                sphereRigidBody.AddForce(new Vector3(-k * dl, 0, 0));
+                //sphereRigidBody.velocity = new Vector3(0, 0, 0);
+                sphereRigidBody.velocity = new Vector3(-Sphere.GetComponent<controller>().prevVelocity, 0, 0);
                 stadiu = 0;
             }
             else

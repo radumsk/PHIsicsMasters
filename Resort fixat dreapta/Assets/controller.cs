@@ -12,7 +12,7 @@ public class controller : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        Vector3 F = new Vector3(115.0f, 0, 0);
+        Vector3 F = new Vector3(80.0f, 0, 0);
         rb.AddForce(F * v);
 
     }
