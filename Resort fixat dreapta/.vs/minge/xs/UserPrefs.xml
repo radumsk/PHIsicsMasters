@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{FDF61F66-71C9-F422-E6EA-54DB1DF03F15}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scriptResort.cs">
+    <Files>
+      <File FileName="Assets/scriptResort.cs" Line="10" Column="41" />
+      <File FileName="Assets/controller.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="minge" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="47a859ea-99e3-4a97-ba04-0b298243eeb2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
