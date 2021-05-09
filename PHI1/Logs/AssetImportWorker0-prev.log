@@ -1,0 +1,1815 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'en' Physical Memory: 32682 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Tudor/Desktop/PHI1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49859
+Successfully changed project path to: C:/Users/Tudor/Desktop/PHI1
+C:/Users/Tudor/Desktop/PHI1
+Using Asset Import Pipeline V2.
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Refreshing native plugins compatible for Editor in 22.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Tudor/Desktop/PHI1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5785
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56624
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002236 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.000 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.754 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.1 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1585.
+Total: 2.137500 ms (FindLiveObjects: 0.130600 ms CreateObjectMapping: 0.039300 ms MarkObjects: 1.916700 ms  DeleteObjects: 0.049600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Script/UI/PL_Toolbar.cs
+  artifactKey: Guid(e2969d78a0e6c2f4a90702760a6051e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/PL_Toolbar.cs using Guid(e2969d78a0e6c2f4a90702760a6051e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '811d020221d9f460b61974ba777b6039') in 0.033750 seconds
+  Import took 0.035681 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 46.7 MB.
+System memory in use after: 46.8 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1585.
+Total: 2.003400 ms (FindLiveObjects: 0.199600 ms CreateObjectMapping: 0.056800 ms MarkObjects: 1.735700 ms  DeleteObjects: 0.010300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 281.672703 seconds.
+  path: Assets/Script/UI/Ray_Caster.cs
+  artifactKey: Guid(21e6b29a27cb65146a3f20098b6cdb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/Ray_Caster.cs using Guid(21e6b29a27cb65146a3f20098b6cdb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b43e5d870c27004e07421c82ebba0f') in 0.006366 seconds
+  Import took 0.008459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Script/UI/Ray_Caster.cs
+  artifactKey: Guid(21e6b29a27cb65146a3f20098b6cdb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/Ray_Caster.cs using Guid(21e6b29a27cb65146a3f20098b6cdb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b43e5d870c27004e07421c82ebba0f') in 0.001955 seconds
+  Import took 0.018522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.628113 seconds.
+  path: Assets/Script/UI/Ray_Caster.cs
+  artifactKey: Guid(21e6b29a27cb65146a3f20098b6cdb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/Ray_Caster.cs using Guid(21e6b29a27cb65146a3f20098b6cdb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2584e72028ae158c414ae387cb9b635e') in 0.002519 seconds
+  Import took 0.016175 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000540 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.617 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1588.
+Total: 2.931800 ms (FindLiveObjects: 0.316500 ms CreateObjectMapping: 0.093900 ms MarkObjects: 2.496500 ms  DeleteObjects: 0.022500 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000536 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1591.
+Total: 1.361000 ms (FindLiveObjects: 0.133400 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.188600 ms  DeleteObjects: 0.010200 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.628 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1594.
+Total: 1.435500 ms (FindLiveObjects: 0.127300 ms CreateObjectMapping: 0.038700 ms MarkObjects: 1.256600 ms  DeleteObjects: 0.011600 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000531 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.613 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1597.
+Total: 3.130200 ms (FindLiveObjects: 0.271600 ms CreateObjectMapping: 0.089300 ms MarkObjects: 2.739800 ms  DeleteObjects: 0.027600 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.687 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1600.
+Total: 2.205800 ms (FindLiveObjects: 0.142600 ms CreateObjectMapping: 0.038700 ms MarkObjects: 2.003900 ms  DeleteObjects: 0.018600 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000559 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.615 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1603.
+Total: 1.588000 ms (FindLiveObjects: 0.116300 ms CreateObjectMapping: 0.033600 ms MarkObjects: 1.426100 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1001.629473 seconds.
+  path: Assets/Materials/Material.mat
+  artifactKey: Guid(730dc19c82ea33146b608ab09900c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Material.mat using Guid(730dc19c82ea33146b608ab09900c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1b9c722e2ecebbab97a1f1ddf0e930') in 0.101702 seconds
+  Import took 0.103653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(f8aff8afc2cfd3a44bb43166beaa8122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(f8aff8afc2cfd3a44bb43166beaa8122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39acbec8fdec19f63a93105a4daa55dd') in 0.011393 seconds
+  Import took 0.013209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.552253 seconds.
+  path: Assets/Prefabs/sfera.prefab
+  artifactKey: Guid(3de7e88d51477df41ba17add8d27a833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/sfera.prefab using Guid(3de7e88d51477df41ba17add8d27a833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635ff63b908f17976b34682680316171') in 0.042283 seconds
+  Import took 0.044299 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.661 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.4 MB.
+System memory in use after: 72.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 1.506000 ms (FindLiveObjects: 0.129300 ms CreateObjectMapping: 0.041300 ms MarkObjects: 1.321500 ms  DeleteObjects: 0.013100 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000530 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.614 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.4 MB.
+System memory in use after: 72.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.448700 ms (FindLiveObjects: 0.131900 ms CreateObjectMapping: 0.040200 ms MarkObjects: 1.264000 ms  DeleteObjects: 0.011700 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000590 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.686 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.4 MB.
+System memory in use after: 72.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1653.
+Total: 1.482100 ms (FindLiveObjects: 0.157000 ms CreateObjectMapping: 0.035000 ms MarkObjects: 1.274400 ms  DeleteObjects: 0.014700 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000551 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.617 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 1.550400 ms (FindLiveObjects: 0.124200 ms CreateObjectMapping: 0.040900 ms MarkObjects: 1.373200 ms  DeleteObjects: 0.011400 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000519 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.645 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 1.704200 ms (FindLiveObjects: 0.170400 ms CreateObjectMapping: 0.064100 ms MarkObjects: 1.454000 ms  DeleteObjects: 0.014200 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000540 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 1.662300 ms (FindLiveObjects: 0.175900 ms CreateObjectMapping: 0.042000 ms MarkObjects: 1.430000 ms  DeleteObjects: 0.013300 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000589 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.660 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1665.
+Total: 1.542600 ms (FindLiveObjects: 0.157700 ms CreateObjectMapping: 0.039300 ms MarkObjects: 1.331300 ms  DeleteObjects: 0.013400 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000655 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.658 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1668.
+Total: 1.449800 ms (FindLiveObjects: 0.141600 ms CreateObjectMapping: 0.037700 ms MarkObjects: 1.256400 ms  DeleteObjects: 0.012500 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1671.
+Total: 2.252700 ms (FindLiveObjects: 0.220000 ms CreateObjectMapping: 0.057500 ms MarkObjects: 1.956100 ms  DeleteObjects: 0.017500 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000555 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.642 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1674.
+Total: 1.449100 ms (FindLiveObjects: 0.151900 ms CreateObjectMapping: 0.037200 ms MarkObjects: 1.247100 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000575 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.624 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1677.
+Total: 1.607500 ms (FindLiveObjects: 0.147000 ms CreateObjectMapping: 0.037300 ms MarkObjects: 1.407100 ms  DeleteObjects: 0.015300 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000531 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 1.415700 ms (FindLiveObjects: 0.126100 ms CreateObjectMapping: 0.037500 ms MarkObjects: 1.239900 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.622 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1683.
+Total: 1.388700 ms (FindLiveObjects: 0.143300 ms CreateObjectMapping: 0.031900 ms MarkObjects: 1.201300 ms  DeleteObjects: 0.011400 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000612 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.611 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 1.526800 ms (FindLiveObjects: 0.147500 ms CreateObjectMapping: 0.037900 ms MarkObjects: 1.330700 ms  DeleteObjects: 0.010000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 73370.653397 seconds.
+  path: Assets/Prefabs/plan-inclinat-roz.prefab
+  artifactKey: Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/plan-inclinat-roz.prefab using Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ffd633b5b8f00cf0dd881567ece3b9') in 0.050017 seconds
+  Import took 0.051792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.931205 seconds.
+  path: Assets/Prefabs/plan-inclinat-roz.prefab
+  artifactKey: Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/plan-inclinat-roz.prefab using Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aaeec4cb23956dbaf76456b58dcc5f7') in 0.009842 seconds
+  Import took 0.011736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.462454 seconds.
+  path: Assets/Prefabs/plan-inclinat-roz.prefab
+  artifactKey: Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/plan-inclinat-roz.prefab using Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf3cf913574955b11a92ff43d18fe3b') in 0.007777 seconds
+  Import took 0.009692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.334382 seconds.
+  path: Assets/Prefabs/cub(Clone).prefab
+  artifactKey: Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cub(Clone).prefab using Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5043c81ba7a97eceeabedd602b3dfb') in 0.013529 seconds
+  Import took 0.015388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.077122 seconds.
+  path: Assets/Prefabs/cub(Clone).prefab
+  artifactKey: Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cub(Clone).prefab using Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb68d5548be4c3557d440a8dc31a324b') in 0.008083 seconds
+  Import took 0.009934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002374 seconds.
+  path: Assets/Prefabs/cub(Clone).prefab
+  artifactKey: Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cub(Clone).prefab using Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb68d5548be4c3557d440a8dc31a324b') in 0.007082 seconds
+  Import took 0.008844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.454070 seconds.
+  path: Assets/Prefabs/cub(Clone).prefab
+  artifactKey: Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cub(Clone).prefab using Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20523920bebf99a3dec14fc9b94c7b36') in 0.007338 seconds
+  Import took 0.009198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.322921 seconds.
+  path: Assets/Prefabs/plan-inclinat-roz.prefab
+  artifactKey: Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/plan-inclinat-roz.prefab using Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db04d207921cb9c13512759385e9102b') in 0.008347 seconds
+  Import took 0.010255 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.629 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 1.457700 ms (FindLiveObjects: 0.133000 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.279000 ms  DeleteObjects: 0.011900 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000563 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.617 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1694.
+Total: 3.424100 ms (FindLiveObjects: 0.298100 ms CreateObjectMapping: 0.096500 ms MarkObjects: 3.002700 ms  DeleteObjects: 0.024700 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.650 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1697.
+Total: 1.609200 ms (FindLiveObjects: 0.151200 ms CreateObjectMapping: 0.032700 ms MarkObjects: 1.411600 ms  DeleteObjects: 0.012800 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.675 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1700.
+Total: 1.566700 ms (FindLiveObjects: 0.141300 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.380100 ms  DeleteObjects: 0.011800 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000702 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.699 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1703.
+Total: 1.625600 ms (FindLiveObjects: 0.246000 ms CreateObjectMapping: 0.076700 ms MarkObjects: 1.288900 ms  DeleteObjects: 0.013000 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.676 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1706.
+Total: 1.699000 ms (FindLiveObjects: 0.159400 ms CreateObjectMapping: 0.068200 ms MarkObjects: 1.456500 ms  DeleteObjects: 0.013900 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.689 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1709.
+Total: 1.687800 ms (FindLiveObjects: 0.146700 ms CreateObjectMapping: 0.040800 ms MarkObjects: 1.484900 ms  DeleteObjects: 0.014500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 670.993562 seconds.
+  path: Assets/Prefabs/plan-inclinat-roz.prefab
+  artifactKey: Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/plan-inclinat-roz.prefab using Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5177b3f312c02edf36753e82d9ce295') in 0.044266 seconds
+  Import took 0.046317 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000589 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.623 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1713.
+Total: 1.447900 ms (FindLiveObjects: 0.126600 ms CreateObjectMapping: 0.035800 ms MarkObjects: 1.273300 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000666 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1716.
+Total: 2.250900 ms (FindLiveObjects: 0.232800 ms CreateObjectMapping: 0.066400 ms MarkObjects: 1.926600 ms  DeleteObjects: 0.023800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 475.576115 seconds.
+  path: Assets/Script/UI
+  artifactKey: Guid(26ea4ab32a7d935408c57c4f449f6d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI using Guid(26ea4ab32a7d935408c57c4f449f6d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a130c89ab4f363054f11bc72969a40') in 0.008316 seconds
+  Import took 0.010428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.542659 seconds.
+  path: Assets/Script/UI/TimeDIlation.cs
+  artifactKey: Guid(6cc0e1e220d82114390dd77ea0485788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/TimeDIlation.cs using Guid(6cc0e1e220d82114390dd77ea0485788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5018a7eb0d8fc107cfe9a450198ee562') in 0.006063 seconds
+  Import took 0.007794 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000641 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.623 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1720.
+Total: 1.564000 ms (FindLiveObjects: 0.146500 ms CreateObjectMapping: 0.041300 ms MarkObjects: 1.363900 ms  DeleteObjects: 0.011300 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000621 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.626 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 1.756900 ms (FindLiveObjects: 0.184000 ms CreateObjectMapping: 0.050200 ms MarkObjects: 1.504600 ms  DeleteObjects: 0.016900 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000630 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.687 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1726.
+Total: 1.523700 ms (FindLiveObjects: 0.146400 ms CreateObjectMapping: 0.039500 ms MarkObjects: 1.324200 ms  DeleteObjects: 0.012700 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000622 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.620 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1729.
+Total: 1.469700 ms (FindLiveObjects: 0.160300 ms CreateObjectMapping: 0.037000 ms MarkObjects: 1.260300 ms  DeleteObjects: 0.011400 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000572 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1732.
+Total: 1.428300 ms (FindLiveObjects: 0.134600 ms CreateObjectMapping: 0.036900 ms MarkObjects: 1.244800 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000539 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.663 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1735.
+Total: 1.430100 ms (FindLiveObjects: 0.151500 ms CreateObjectMapping: 0.031700 ms MarkObjects: 1.231900 ms  DeleteObjects: 0.014000 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000591 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.668 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 1.636300 ms (FindLiveObjects: 0.206700 ms CreateObjectMapping: 0.054700 ms MarkObjects: 1.360100 ms  DeleteObjects: 0.013900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1303.707124 seconds.
+  path: Assets/Prefabs/plan-inclinat-roz.prefab
+  artifactKey: Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/plan-inclinat-roz.prefab using Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a19899e15b0a74a3755d35f34e19a0') in 0.052153 seconds
+  Import took 0.054197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007327 seconds.
+  path: Assets/Prefabs/plan-inclinat-roz.prefab
+  artifactKey: Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/plan-inclinat-roz.prefab using Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a19899e15b0a74a3755d35f34e19a0') in 0.007584 seconds
+  Import took 0.009722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.975439 seconds.
+  path: Assets/Prefabs/cub(Clone).prefab
+  artifactKey: Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cub(Clone).prefab using Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335b3b3ae68211c1616083c9d557bdfb') in 0.011283 seconds
+  Import took 0.013207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001169 seconds.
+  path: Assets/Prefabs/cub(Clone).prefab
+  artifactKey: Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cub(Clone).prefab using Guid(31bbea60cb2157b4b8120654e8c2b807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335b3b3ae68211c1616083c9d557bdfb') in 0.007543 seconds
+  Import took 0.009348 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000700 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.698 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 2.068200 ms (FindLiveObjects: 0.265700 ms CreateObjectMapping: 0.076600 ms MarkObjects: 1.705100 ms  DeleteObjects: 0.018400 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000575 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.634 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1745.
+Total: 4.600800 ms (FindLiveObjects: 0.363000 ms CreateObjectMapping: 0.111100 ms MarkObjects: 4.091200 ms  DeleteObjects: 0.033100 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.694 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1748.
+Total: 1.604300 ms (FindLiveObjects: 0.164400 ms CreateObjectMapping: 0.048500 ms MarkObjects: 1.377100 ms  DeleteObjects: 0.013400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 455.171758 seconds.
+  path: Assets/Prefabs/plan-inclinat-roz.prefab
+  artifactKey: Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/plan-inclinat-roz.prefab using Guid(3db8a46719d027d409e09aa77567a01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3082735ceba96aadfe78a2deaa0cc4ea') in 0.051354 seconds
+  Import took 0.053428 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.684 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1752.
+Total: 1.572000 ms (FindLiveObjects: 0.207700 ms CreateObjectMapping: 0.053400 ms MarkObjects: 1.284200 ms  DeleteObjects: 0.025400 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000607 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.653 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1755.
+Total: 1.612900 ms (FindLiveObjects: 0.157800 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.401700 ms  DeleteObjects: 0.013000 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000614 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.627 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1758.
+Total: 1.738900 ms (FindLiveObjects: 0.177700 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.502100 ms  DeleteObjects: 0.012000 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.612 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1761.
+Total: 1.641100 ms (FindLiveObjects: 0.166300 ms CreateObjectMapping: 0.036800 ms MarkObjects: 1.422900 ms  DeleteObjects: 0.013900 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000797 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.674 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1764.
+Total: 1.836500 ms (FindLiveObjects: 0.165100 ms CreateObjectMapping: 0.040500 ms MarkObjects: 1.613800 ms  DeleteObjects: 0.016000 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000611 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.614 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1767.
+Total: 3.242100 ms (FindLiveObjects: 0.343700 ms CreateObjectMapping: 0.112700 ms MarkObjects: 2.757200 ms  DeleteObjects: 0.025900 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000569 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.618 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1770.
+Total: 1.527800 ms (FindLiveObjects: 0.139400 ms CreateObjectMapping: 0.037200 ms MarkObjects: 1.339800 ms  DeleteObjects: 0.010600 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.629 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1773.
+Total: 1.486000 ms (FindLiveObjects: 0.130700 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.315400 ms  DeleteObjects: 0.010700 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.625 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1776.
+Total: 1.423400 ms (FindLiveObjects: 0.152500 ms CreateObjectMapping: 0.028900 ms MarkObjects: 1.228200 ms  DeleteObjects: 0.013000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7757.185453 seconds.
+  path: Assets/Script/UI/TimeDIlation.cs
+  artifactKey: Guid(6cc0e1e220d82114390dd77ea0485788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/TimeDIlation.cs using Guid(6cc0e1e220d82114390dd77ea0485788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c7194ef202abb764b3f8e3a3b2d662') in 0.007145 seconds
+  Import took 0.008950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Script/UI/TimeDIlation.cs
+  artifactKey: Guid(6cc0e1e220d82114390dd77ea0485788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/TimeDIlation.cs using Guid(6cc0e1e220d82114390dd77ea0485788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c7194ef202abb764b3f8e3a3b2d662') in 0.002133 seconds
+  Import took 0.003819 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.623 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1779.
+Total: 1.810800 ms (FindLiveObjects: 0.166800 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.584700 ms  DeleteObjects: 0.018800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.709772 seconds.
+  path: Assets/Script/UI/TimeDIlation.cs
+  artifactKey: Guid(6cc0e1e220d82114390dd77ea0485788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/TimeDIlation.cs using Guid(6cc0e1e220d82114390dd77ea0485788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e35e64fda916971b48ffb0c1881abb5') in 0.005641 seconds
+  Import took 0.007797 seconds .
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.662 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1781.
+Total: 1.635500 ms (FindLiveObjects: 0.155800 ms CreateObjectMapping: 0.037600 ms MarkObjects: 1.428500 ms  DeleteObjects: 0.012900 ms)
+
+========================================================================
+Received Prepare
+Please move 'D:\450IT\PHIsicsMasters\PHI1\Assets\WSATestCertificate.pfx' certificate inside a project, certificate path changed to Assets/WSATestCertificate.pfx
+
+Registering precompiled user dll's ...
+Registered in 0.000559 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.627 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1784.
+Total: 3.920400 ms (FindLiveObjects: 0.410800 ms CreateObjectMapping: 0.111300 ms MarkObjects: 3.371000 ms  DeleteObjects: 0.025200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 340.459644 seconds.
+  path: Assets/Phi1.1.unity
+  artifactKey: Guid(7ff1ba314c2474c4094a66d4964e3024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Phi1.1.unity using Guid(7ff1ba314c2474c4094a66d4964e3024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b65cf4cd8966932b859aac07341ac9f') in 0.014101 seconds
+  Import took 0.016290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.251142 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(67a9266e5b9c678449be371711817e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(67a9266e5b9c678449be371711817e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4baeb09ed9a6a7a560e875b26712167') in 0.006716 seconds
+  Import took 0.008719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 292.176111 seconds.
+  path: Assets/Models
+  artifactKey: Guid(647fdbd1165f0ca4a84f54ff4e00cc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(647fdbd1165f0ca4a84f54ff4e00cc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5e3d571458a2bd4db97c5517617e53') in 0.005032 seconds
+  Import took 0.007449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083426 seconds.
+  path: Assets/Models/cub.blend
+  artifactKey: Guid(4304a6d9e28bda0478c8465fec536ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/cub.blend using Guid(4304a6d9e28bda0478c8465fec536ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957785a45df781e772ef9990c61fcd54') in 1.609438 seconds
+  Import took 1.611433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005717 seconds.
+  path: Assets/Script
+  artifactKey: Guid(0e79369df263f2741a8ff9c8cb55ef68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(0e79369df263f2741a8ff9c8cb55ef68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1916213359031410bf1926eae6698b61') in 0.004811 seconds
+  Import took 0.006496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074300 seconds.
+  path: Assets/Models/scripete.blend
+  artifactKey: Guid(ced325858e4d6ae43bde4800b93283c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/scripete.blend using Guid(ced325858e4d6ae43bde4800b93283c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430ab409f42f3dd30dfd9b34e3f2777f') in 0.005846 seconds
+  Import took 0.007746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018798 seconds.
+  path: Assets/Script/UI/Sphere_Toolbar.cs
+  artifactKey: Guid(76cb53936fbeb7b4eb3c64775589dac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/Sphere_Toolbar.cs using Guid(76cb53936fbeb7b4eb3c64775589dac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa5332bd89901f9c7e70a307e47b080') in 0.004474 seconds
+  Import took 0.006220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005457 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(5aa3a644499c3c34d8c6020c378f808e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(5aa3a644499c3c34d8c6020c378f808e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2279460e91dc9cd3b3a0594bfebc3f2c') in 0.004764 seconds
+  Import took 0.006570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062338 seconds.
+  path: Assets/Animations/resort.fbx
+  artifactKey: Guid(ae68af5ae620747f5806972e3f9198d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/resort.fbx using Guid(ae68af5ae620747f5806972e3f9198d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276c03994fe2b10c954414ac9db7d0f2') in 0.173785 seconds
+  Import took 0.175816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006133 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(3a5dbefee7c00c44da5575fce9343e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(3a5dbefee7c00c44da5575fce9343e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4967bf958b77fac1027c9b052c0d45') in 0.005048 seconds
+  Import took 0.006755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006059 seconds.
+  path: Assets/Script/UI/Movement.cs
+  artifactKey: Guid(38d31df0f5298ab4d98e8adcfc7dfb49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/Movement.cs using Guid(38d31df0f5298ab4d98e8adcfc7dfb49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1046c23987fb0ab60cc532da2e2138') in 0.004799 seconds
+  Import took 0.006646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017771 seconds.
+  path: Assets/Script/UI/PLProp.cs
+  artifactKey: Guid(a5ad853765f7ce54a9d49974a552d577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/PLProp.cs using Guid(a5ad853765f7ce54a9d49974a552d577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc46c0d21ef2e734d1fb94c8252a7d8') in 0.005091 seconds
+  Import took 0.018197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013255 seconds.
+  path: Assets/Script/controller.cs
+  artifactKey: Guid(875f62b3b7e7149ca802e8215b58b49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/controller.cs using Guid(875f62b3b7e7149ca802e8215b58b49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbb5ddce238212d2ae1c9c23d41ee73') in 0.004853 seconds
+  Import took 0.006510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002482 seconds.
+  path: Assets/Script/UI/PL_Toolbar.cs
+  artifactKey: Guid(e2969d78a0e6c2f4a90702760a6051e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/PL_Toolbar.cs using Guid(e2969d78a0e6c2f4a90702760a6051e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6f93c61608a2e8d56757300c0f72b1') in 0.004332 seconds
+  Import took 0.005992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002508 seconds.
+  path: Assets/Phi1.1.unity
+  artifactKey: Guid(7ff1ba314c2474c4094a66d4964e3024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Phi1.1.unity using Guid(7ff1ba314c2474c4094a66d4964e3024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795f9cdaccd7a78fa69c3ef2386b1797') in 0.001863 seconds
+  Import took 0.003459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002611 seconds.
+  path: Assets/Script/UI/Run.cs
+  artifactKey: Guid(7a32c48ae7278b3468cf1153d1279626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/Run.cs using Guid(7a32c48ae7278b3468cf1153d1279626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43fc1fecc986326b238db253243cdfb2') in 0.005019 seconds
+  Import took 0.006742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055508 seconds.
+  path: Assets/Models/paralelipiped.blend
+  artifactKey: Guid(a87a115fcd88e0e479099a4baaa98cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/paralelipiped.blend using Guid(a87a115fcd88e0e479099a4baaa98cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e29bafc878be47d3062c4ab821c114') in 0.005783 seconds
+  Import took 0.007506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056025 seconds.
+  path: Assets/Models/sfoara.blend
+  artifactKey: Guid(95dabbe9b0c58cd47b798ef8ccc8aad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/sfoara.blend using Guid(95dabbe9b0c58cd47b798ef8ccc8aad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a095193508a4f84ce35f5770621a792') in 0.005590 seconds
+  Import took 0.007333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041821 seconds.
+  path: Assets/Models/plan-inclinat-roz.blend
+  artifactKey: Guid(974647bc502c4664381daa92cb4cfc3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/plan-inclinat-roz.blend using Guid(974647bc502c4664381daa92cb4cfc3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f1930e8b6f0352ced2b2d41fd3c31a') in 0.004824 seconds
+  Import took 0.006567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017388 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb47ee9af1205a45a70641ef2e67f4a6') in 0.005021 seconds
+  Import took 0.006701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006117 seconds.
+  path: Assets/Script/UI/SelectionDetector.cs
+  artifactKey: Guid(e05d28244735a0d47a74269b8909241e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/SelectionDetector.cs using Guid(e05d28244735a0d47a74269b8909241e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9255741f9bcd80b916d931808017a1e') in 0.004600 seconds
+  Import took 0.006275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037322 seconds.
+  path: Assets/WSATestCertificate.pfx
+  artifactKey: Guid(5faba34422ad60140ab2cbe33fa94026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WSATestCertificate.pfx using Guid(5faba34422ad60140ab2cbe33fa94026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc195a387555bb61a004d705203ff14') in 0.015259 seconds
+  Import took 0.017056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002721 seconds.
+  path: Assets/Script/UI/Ray_Caster.cs
+  artifactKey: Guid(21e6b29a27cb65146a3f20098b6cdb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/Ray_Caster.cs using Guid(21e6b29a27cb65146a3f20098b6cdb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5062057b42b7d33bddb78bf43b8aecf') in 0.004691 seconds
+  Import took 0.006692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011386 seconds.
+  path: Assets/Script/UI/Menu_UI.cs
+  artifactKey: Guid(cfce39e50ed30764e878dee4f1a2aca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UI/Menu_UI.cs using Guid(cfce39e50ed30764e878dee4f1a2aca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb4d887e965ec5d38343c4fec553eda') in 0.005012 seconds
+  Import took 0.006783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006211 seconds.
+  path: Assets/Script/Save/Project.cs
+  artifactKey: Guid(97bda6ac847af844591505785e666b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Save/Project.cs using Guid(97bda6ac847af844591505785e666b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6231f9dc0ab47b3102156d3770c8d661') in 0.004535 seconds
+  Import took 0.006234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046360 seconds.
+  path: Assets/Models/sfera.blend
+  artifactKey: Guid(243a42ab0f6b97f4fac34bdfed3488a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/sfera.blend using Guid(243a42ab0f6b97f4fac34bdfed3488a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be2bc222ed865d1788607cabbe03d78') in 0.004946 seconds
+  Import took 0.006637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005481 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(cd2e9ad8ea99f604fbc10006583e1072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(cd2e9ad8ea99f604fbc10006583e1072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576ddcc0e05715d9ec9ff2ff47e80fe4') in 0.004733 seconds
+  Import took 0.006420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016294 seconds.
+  path: Assets/Script/Save
+  artifactKey: Guid(b8fa1aeda1f2d164c8809fdc2f00fcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Save using Guid(b8fa1aeda1f2d164c8809fdc2f00fcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1c8fec1ead060963368e539c07b149') in 0.004482 seconds
+  Import took 0.006149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015635 seconds.
+  path: Assets/Script/scriptResort.cs
+  artifactKey: Guid(5aed45545963640adbc6da5424a71424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/scriptResort.cs using Guid(5aed45545963640adbc6da5424a71424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '900c5b73f317f0579b013f3a8c3750cd') in 0.004504 seconds
+  Import took 0.006303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048748 seconds.
+  path: Assets/Models/scripete2.blend
+  artifactKey: Guid(d4c61bf0fb6d0b0409b07b8e4299428b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/scripete2.blend using Guid(d4c61bf0fb6d0b0409b07b8e4299428b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f907db479e9d08a40fdb101932372004') in 0.005835 seconds
+  Import took 0.007625 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
